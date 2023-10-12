@@ -1,8 +1,7 @@
-# TakasMobil
+## TakasMobil
 My first ios app.
 
-Takas Mobile app boasts a minimalist design, featuring a dominant color scheme of green, white, and blue. Upon launching the app, users are greeted with the prominently displayed "Takas" inscription set against a green backdrop, articulating the app's name and focus vividly. Essential to realizing the core functionalities of the Takas Mobile app are the user login and registration interfaces. These interfaces play a pivotal role, ensuring user identification, managing data flow, and overseeing interactions between users and the database.llanıcıların veritabanıyla olan etkileşimlerini
-kontrol etmeyi sağlamaktadır.
+Takas Mobile app boasts a minimalist design, featuring a dominant color scheme of green, white, and blue. Upon launching the app, users are greeted with the prominently displayed "Takas" inscription set against a green backdrop, articulating the app's name and focus vividly. Essential to realizing the core functionalities of the Takas Mobile app are the user login and registration interfaces. These interfaces play a pivotal role, ensuring user identification, managing data flow, and overseeing interactions between users and the database.
 
 <img width="475" alt="login" src="https://github.com/Dzdrgl/TakasMobil/assets/65073963/43c615dd-e6f4-4333-84f5-6dcc84fa2a9b">
 <img width="479" alt="my_posts" src="https://github.com/Dzdrgl/TakasMobil/assets/65073963/51a4da2b-049e-4622-ba56-4131dd889abc">
