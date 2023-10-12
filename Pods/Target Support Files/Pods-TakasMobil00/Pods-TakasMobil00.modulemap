@@ -1,0 +1,6 @@
+framework module Pods_TakasMobil00 {
+  umbrella header "Pods-TakasMobil00-umbrella.h"
+
+  export *
+  module * { export * }
+}
